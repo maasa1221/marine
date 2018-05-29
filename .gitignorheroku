@@ -1,0 +1,1 @@
+/vendor/bundle run bundle exec rails db:migrate
